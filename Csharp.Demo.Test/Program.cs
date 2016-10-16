@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using csharp.demo.keyword_lock;
-using csharp.demo.time;
-using CSharp.Demo.Events.BoildWater;
-
 namespace csharp.demo.test
 {
     class Program
@@ -12,7 +8,7 @@ namespace csharp.demo.test
         {
             System.Diagnostics.Stopwatch stopwatch = Stopwatch.StartNew();
             stopwatch.Start();
-
+            Csharp.Demo.Keyword_class.NestedClass.GeometricShape.Demo.Run();
             stopwatch.Stop();
             Console.WriteLine("耗时："+stopwatch.ElapsedMilliseconds);
             Console.ReadLine();

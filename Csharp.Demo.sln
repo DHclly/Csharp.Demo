@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.Time", "csharp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.Events", "csharp.demo.events\Csharp.Demo.Events.csproj", "{8336B858-08D4-4891-9D7A-A648483F7DF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.Keyword_class", "Csharp.Demo.Keyword_class\Csharp.Demo.Keyword_class.csproj", "{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8336B858-08D4-4891-9D7A-A648483F7DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8336B858-08D4-4891-9D7A-A648483F7DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8336B858-08D4-4891-9D7A-A648483F7DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
