@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.Events", "cshar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.Keyword_class", "Csharp.Demo.Keyword_class\Csharp.Demo.Keyword_class.csproj", "{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp.Demo.MVC4", "Csharp.Demo.MVC4\Csharp.Demo.MVC4.csproj", "{DF499DAB-6685-47F9-A623-6FF6BA8AC053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F4DBF3-5012-4B09-BD8A-F800B657BA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF499DAB-6685-47F9-A623-6FF6BA8AC053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF499DAB-6685-47F9-A623-6FF6BA8AC053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF499DAB-6685-47F9-A623-6FF6BA8AC053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF499DAB-6685-47F9-A623-6FF6BA8AC053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
